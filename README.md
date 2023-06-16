@@ -13,6 +13,8 @@
 - [ ] :red_circle: assignment read 6
 
        
- > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net 
+ > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
+A very <span style='color: red;'>long</span> sentence.
+
 
 
