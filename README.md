@@ -15,8 +15,7 @@
        
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 ```diff
-
- @@ This is a purple colored line  @@
+ This is a purple colored line  
 ```
 
 
