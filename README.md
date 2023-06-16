@@ -14,7 +14,11 @@
 
        
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
-A very <span style='color: red;'>long</span> sentence.
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
 
 
 
