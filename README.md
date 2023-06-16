@@ -14,7 +14,6 @@
 
        
 :octocat:
-:bangbang:
 :atom_symbol:
 :file_folder:
 :computer:
