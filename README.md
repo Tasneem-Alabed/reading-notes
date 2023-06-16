@@ -6,5 +6,5 @@
 - [x] assignment read 1
 - [x] assignment read 2
 - [x] assignment read 3
-- []\ assignment read 4
-- []\ assignment read 5
+- [ ]  assignment read 4
+- [ ]  assignment read 5
