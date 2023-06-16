@@ -13,4 +13,4 @@
 - [ ] :red_circle: assignment read 6
 
        
- > :octocat: :atom_symbol: :file_folder: :computer: :hourglass: :rose: :owl:
+ > :octocat: :atom_symbol: :file_folder: :computer: :hourglass: ASP.Net
