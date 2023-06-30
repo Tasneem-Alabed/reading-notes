@@ -12,7 +12,7 @@
 - [x] : [Data structure and algorethem](./DATASTRUCTURE.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Read file in c#](./READ.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [SQL](./SQL/SQL.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
+- [x] : [Growth Mindest](./GrowthMindset.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
