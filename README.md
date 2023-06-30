@@ -5,19 +5,19 @@
 
 ![image for react .Net](https://d33wubrfki0l68.cloudfront.net/4205d0600846259a187789ac358b9107a308d949/a4ec6/img/logo.svg)
 
-- [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Practice in the Terminal](./PIT.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Abestract](./ABESTRACT.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Classes and memory management](./CLASSES.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Data structure and algorethem](./DATASTRUCTURE.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Read file in c#](./READ.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [SQL](./SQL/SQL.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Growth Mindest](./GrowthMindset.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Exception Handling](./ExceptionHandeler.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [unit test](./unetTest.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
+- [x] : [Linked list](./LINKEDLIST.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Practice in the Terminal](./PIT.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Abestract](./ABESTRACT.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Classes and memory management](./CLASSES.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Data structure and algorethem](./DATASTRUCTURE.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Read file in c#](./READ.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [SQL](./SQL/SQL.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Growth Mindest](./GrowthMindset.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Exception Handling](./ExceptionHandeler.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [unit test](./unetTest.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Stacks and Queues](./stack%26qeue.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Linked list](./LINKEDLIST.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [Linked list](./LINKEDLIST.md)  green_circle: assignment read 1   :ok_hand:
 
 
 
