@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="stayles.css">
-    <title>.Net Curse</title>
-</head>
-<body>
-    
-    <header>
-        <nav>
-            <ul>
-                <li>
-                    <p><a href="./index.html">Home</a></p>
-                </li>
-                <li>
-                    <p><a href="./connectwithUs.html">Connect With us</a></p> 
-                </li>
-                <li>
-                    <p><a href="./aboutUs.html">About Us</a> </p>
-                </li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-     <h1>Read and write to a newly created data file</h1>   
+<h1>Read and write to a newly created data file</h1>   
 
 <p>  to read and write data other char and String the steps to do this </p>   
 
@@ -85,12 +59,4 @@
 <p>strem </p>  
 
 <p>abstract class upports reading and writing bytes All classes that represent streams inherit from the strem class .the strem has three operation write read and seeking </p>
-    </main>
-        <footer>
-            <div id="footer1">
-              &copy Tasneem Alabed <span>       tsneemabedd@gmail.com </span>
-            </main>
-            </div>
-        </footer>
-</body>
-</html>
+   
