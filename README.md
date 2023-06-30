@@ -14,7 +14,7 @@
 - [x] : [SQL](./SQL/SQL.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Growth Mindest](./GrowthMindset.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Exception Handling](./ExceptionHandeler.md) green_circle: assignment read 1   :ok_hand:
-- [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
+- [x] : [unit test](./unetTest.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
 - [x] : [Linked list](./LINKEDLIST.md) green_circle: assignment read 1   :ok_hand:
