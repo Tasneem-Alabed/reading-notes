@@ -16,7 +16,7 @@
 - [x] : [Exception Handling](./ExceptionHandeler.md)  green_circle: assignment read 1   :ok_hand:
 - [x] : [unit test](./unetTest.md)  green_circle: assignment read 1   :ok_hand:
 - [x] : [Stacks and Queues](./stack%26qeue.md)  green_circle: assignment read 1   :ok_hand:
-- [x] : [Linked list](./LINKEDLIST.md)  green_circle: assignment read 1   :ok_hand:
+- [x] : [InterFace](./interface.md)  green_circle: assignment read 1   :ok_hand:
 - [x] : [Linked list](./LINKEDLIST.md)  green_circle: assignment read 1   :ok_hand:
 
 
