@@ -18,7 +18,7 @@
 - [x] : [Stacks and Queues](./stack%26qeue.md)  
 - [x] : [InterFace](./interface.md)  
 - [x] : [Collections & Enums](./Collections_Enums.md)  
-
+- [x] : [ LINQ & Delegates](./Class9.md) 
   
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
