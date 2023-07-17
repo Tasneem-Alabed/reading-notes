@@ -20,7 +20,7 @@
 - [x] : [Collections & Enums](./Collections_Enums.md)  
 - [x] : [ LINQ & Delegates](./Class9.md) 
 - [x] : [Introduction to Databases and ERDs](./DataBaseAneErds.md)
-  
+ - [x] : [Entity Framework and APIs](./Entity_Framework_and_APIs.md) 
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
 image link
