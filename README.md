@@ -26,6 +26,8 @@
 
  - [x] : [Tree](./Tree.md)
 
+  - [x] : [Data Transfer Objects](./class16.md)
+
 
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
