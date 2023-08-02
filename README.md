@@ -21,12 +21,11 @@
 - [x] : [ LINQ & Delegates](./Class9.md) 
 - [x] : [Introduction to Databases and ERDs](./DataBaseAneErds.md)
  - [x] : [Entity Framework and APIs](./Entity_Framework_and_APIs.md) 
-  - [x] : [ Dependency Injection & Repository Design Pattern](./Class_13.md) 
-    - [x] : [Navigation Properties and Routing](./class_14.md)
-
+ - [x] : [ Dependency Injection & Repository Design Pattern](./Class_13.md) 
+ - [x] : [Navigation Properties and Routing](./class_14.md)
+ - [x] : [Testing and Swagger and Deployment](./class-17.md)
  - [x] : [Tree](./Tree.md)
-
-  - [x] : [Data Transfer Objects](./class16.md)
+ - [x] : [Data Transfer Objects](./class16.md)
 
 
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
