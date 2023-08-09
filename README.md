@@ -27,6 +27,7 @@
  - [x] : [Tree](./Tree.md)
  - [x] : [Data Transfer Objects](./class16.md)
  - [x] : [Identify](Class_18.md)
+ - [x] : [Roles, Claims and JWT Tokens](class_19.md)
 
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
