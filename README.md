@@ -29,6 +29,7 @@
  - [x] : [Identify](Class_18.md)
  - [x] : [Roles, Claims and JWT Tokens](class_19.md)
  - [x] : [Intro to MVC ](Class_26.md)
+ - [x] :[4 Ways to make a form in .NET MVC](Class_27.md)
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
 image link
