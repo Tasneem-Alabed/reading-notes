@@ -31,6 +31,7 @@
  - [x] : [Intro to MVC ](Class_26.md)
  - [x] :[4 Ways to make a form in .NET MVC](Class_27.md)
  - [X]  :[Coolies](Class_28)
+ - [x]  :[Azure Blob Storage](class_29) 
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
 image link
