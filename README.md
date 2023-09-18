@@ -34,6 +34,7 @@
  - [x]  :[Azure Blob Storage](class_29.md)
  - [x]  :[Hach Table](HachTable.md)
  - [x]   :[Razor Pages](class31.md)
+ - [ ]   :[View Components](Class_32.md)
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
 image link
