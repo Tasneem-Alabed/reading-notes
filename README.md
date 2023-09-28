@@ -36,7 +36,7 @@
  - [x]   :[Razor Pages](class31.md)
  - [X]   :[View Components](Class_32.md)
  - [X]:[Payment Processing](read334.md)
- - [x]:[Graph](Gra.md)
+ - [x] :[Graph](Gra.md)
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
 <br>
 image link
