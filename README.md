@@ -37,6 +37,7 @@
  - [X]   :[View Components](Class_32.md)
  - [X] :[Payment Processing](read334.md)
  - [X] :[Graph](Gra.md)
+ - [x] : [Jamstack](JamStack.md)
 
 
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
