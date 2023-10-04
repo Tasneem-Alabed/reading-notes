@@ -39,6 +39,7 @@
  - [X] :[Graph](Gra.md)
  - [x] : [Jamstack](JamStack.md)
  - [X] :[react](React1.md)
+ - [x] :[react2](React2.md)
 
 
  > :octocat: :atom_symbol: :file_folder: :computer: :hourglass:  ASP.Net
